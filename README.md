@@ -5,6 +5,7 @@ This book is an excellent practical guide for anyone learning or working with **
 It provides **hundreds of hands-on recipes** that demonstrate how to perform common tasks in data preprocessing, model training, evaluation, and deployment.  
 
 Each recipe is **concise and solution-focused**, showing how to apply popular libraries such as **NumPy, pandas, scikit-learn, TensorFlow, and Matplotlib**.  
+
 It’s particularly useful for **students, data enthusiasts, and professionals** who want to quickly find code examples for real-world ML problems.  
 
 ✅ **Key Highlights**
