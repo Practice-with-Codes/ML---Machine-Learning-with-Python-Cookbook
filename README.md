@@ -16,7 +16,7 @@ This book serves as a **handy reference and coding companion** throughout your m
 
 A practical reference based on *Machine Learning with Python Cookbook* by Chris Albon — featuring clear, ready-to-use Python recipes for data preprocessing, model building, and evaluation using libraries like NumPy, pandas, and scikit-learn.
 
-# ✅ Chapter 1 – Working with Vectors, Matrices and Arrays in NumPy
+### ✅ Chapter 1 – Working with Vectors, Matrices and Arrays in NumPy
 | Sl. No | Code |
 |-----------|-----------|
 | 1.  | Creating a Vector |
