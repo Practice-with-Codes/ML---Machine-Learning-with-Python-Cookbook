@@ -19,7 +19,6 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 
 | Sl. No | Code |
 |-----------|-----------|
-| Creating a Vector |
 | 1.  | Creating a Vector |
 | 2.  | Creating a Matrix |
 | 3.  | Creatring a Sparse Matrix |
