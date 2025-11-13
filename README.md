@@ -1,5 +1,5 @@
 
-### ✅ Book Reference: *Machine Learning with Python Cookbook* by Chris Albon
+### ✅ Book Reference: Machine Learning with Python Cookbook by Chris Albon
 
 This book is an excellent practical guide for anyone learning or working with machine learning using Python.  
 
