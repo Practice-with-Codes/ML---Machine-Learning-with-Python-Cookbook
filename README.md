@@ -7,7 +7,7 @@ It provides **hundreds of hands-on recipes** that demonstrate how to perform com
 Each recipe is **concise and solution-focused**, showing how to apply popular libraries such as **NumPy, pandas, scikit-learn, TensorFlow, and Matplotlib**.  
 It’s particularly useful for **students, data enthusiasts, and professionals** who want to quickly find code examples for real-world ML problems.  
 
-✅ **Key Highlights **
+✅ **Key Highlights**
 - Covers data cleaning, feature engineering, and model selection.  
 - Includes ready-to-use Python snippets for practical implementation.  
 - Explains core ML concepts with clear and reproducible examples.  
