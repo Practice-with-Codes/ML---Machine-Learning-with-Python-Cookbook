@@ -17,7 +17,8 @@ This book serves as a **handy reference and coding companion** throughout your m
 A practical reference based on *Machine Learning with Python Cookbook* by Chris Albon — featuring clear, ready-to-use Python recipes for data preprocessing, model building, and evaluation using libraries like NumPy, pandas, and scikit-learn.
 
 |Chapter. No | Sl. No | Code |
-| I |-----------|-----------|
+| ----------- |-----------|-----------|
+| I | Creating a Vector |
 | | 1.  | Creating a Vector |
 | | 2.  | Creating a Matrix |
 | | 3.  | Creatring a Sparse Matrix |
