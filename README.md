@@ -13,7 +13,7 @@ It’s particularly useful for students, data enthusiasts, and professionals who
 - Includes ready-to-use Python snippets for practical implementation.  
 - Explains core ML concepts with clear and reproducible examples.  
 
-This book serves as a **handy reference and coding companion** throughout your machine learning journey.
+This book serves as a handy reference and coding companion throughout your machine learning journey.
 
 A practical reference based on *Machine Learning with Python Cookbook* by Chris Albon — featuring clear, ready-to-use Python recipes for data preprocessing, model building, and evaluation using libraries like NumPy, pandas, and scikit-learn.
 
