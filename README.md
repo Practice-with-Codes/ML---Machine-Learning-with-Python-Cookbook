@@ -1,4 +1,3 @@
-# ML - Machine Learning with  Python Cookbook
 
 ## 📘 Book Reference: *Machine Learning with Python Cookbook* by Chris Albon
 
