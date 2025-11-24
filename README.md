@@ -24,7 +24,7 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 |-----------|-----------|
 | 1.  | Creating a Vector |
 | 2.  | Creating a Matrix |
-| 3.  | Creatring a Sparse Matrix |
+| 3.  | Creating a Sparse Matrix |
 | 4.  | Pre-allocating Numpy Arrays |
 | 5.  | Selecting Elements |
 | 6.  | Describing a Matrix |
