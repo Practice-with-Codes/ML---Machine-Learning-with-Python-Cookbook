@@ -20,6 +20,8 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 
 #### ✅ Chapter 1: Working with Vectors, Matrices and Arrays in NumPy
 
+<div align = "center">
+
 | Sl. No | Code |
 |-----------|-----------|
 | 1.  | Creating a Vector |
@@ -42,4 +44,8 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 | 18.  | Multiplying Matrices |
 | 19.  | Inversing a Matrix |
 | 20.  | Generating Random Values|
+
+</div>
+
+<br><br>
 
