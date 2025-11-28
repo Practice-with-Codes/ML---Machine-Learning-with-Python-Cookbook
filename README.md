@@ -20,6 +20,11 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 
 #### ✅ Chapter 1: Working with Vectors, Matrices and Arrays in NumPy
 
+  <p align = "justify"> NumPy provides efficient tools for creating, manipulating and performing mathematical operations on vectors, matrices and 
+    multidimensional arrays, which form the foundation for numerical computing and data science. The operations in this chapter build essential skills 
+    such as indexing, reshaping, applying functions, matrix algebra and statistical computation, enabling faster data processing and optimization compared 
+    to traditional Python lists. </p>
+
 | Sl. No | Code |
 |-----------|-----------|
 | 1.  | Creating a Vector |
