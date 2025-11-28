@@ -43,6 +43,10 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 | 19.  | Inversing a Matrix |
 | 20.  | Generating Random Values|
 
-
 <br><br>
 
+#### ✅ Chapter 2: Loading the Data
+
+| Sl. No | Code |
+|-----------|-----------|
+| 1.  | Loading the Sample Data |
