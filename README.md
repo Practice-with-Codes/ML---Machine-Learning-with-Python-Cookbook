@@ -56,8 +56,8 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 | **Sl. No** | **Code** |
 |:---------:|----------------------------------------------|
 | 1  | Loading the Sample Data |
-| 1  | Creating a Simulated Dataset |
-| 1  | Loading a CSV File |
-| 1  | Loading an Excel File |
+| 2  | Creating a Simulated Dataset |
+| 3  | Loading a CSV File |
+| 4  | Loading an Excel File |
 
 
