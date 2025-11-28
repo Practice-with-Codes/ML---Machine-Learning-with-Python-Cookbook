@@ -25,7 +25,6 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
     such as indexing, reshaping, applying functions, matrix algebra and statistical computation, enabling faster data processing and optimization compared 
     to traditional Python lists. </p>
 
-#### ✅ Chapter 1: Working with Vectors, Matrices and Arrays in NumPy
 
 | **Sl. No** | **Code** |
 |:---------:|----------------------------------------------|
