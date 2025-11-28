@@ -54,6 +54,7 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 
 #### ✅ Chapter 2: Loading the Data
 
-| Sl. No | Code |
-|-----------|-----------|
-| 1.  | Loading the Sample Data |
+| **Sl. No** | **Code** |
+|:---------:|----------------------------------------------|
+| 1  | Loading the Sample Data |
+
