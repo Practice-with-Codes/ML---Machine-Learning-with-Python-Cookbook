@@ -59,5 +59,10 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 | 2  | Creating a Simulated Dataset |
 | 3  | Loading a CSV File |
 | 4  | Loading an Excel File |
+| 5  | Loading a JSON File |
+| 6  | Loading a Parquet File |
+| 7  | Loading a avro File |
+| 8  | Loading a TFRecord File |
+| 9  | Querying a SQLite Database |
 
 
