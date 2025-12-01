@@ -64,5 +64,11 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 | 7  | Loading a avro File |
 | 8  | Loading a TFRecord File |
 | 9  | Querying a SQLite Database |
+| 9  | Querying a Remote SQL Database |
+| 9  | Loading Data from a Google Sheet |
+| 9  | Loading Data from an S3 bucket |
+| 9  | Loading Unstructured Data |
+
+
 
 
