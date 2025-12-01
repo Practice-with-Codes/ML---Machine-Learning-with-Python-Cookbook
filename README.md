@@ -55,6 +55,8 @@ A practical reference based on *Machine Learning with Python Cookbook* by Chris 
 
   <p align = "justify"> This chapter focuses on importing data from various file formats and storage sources such as CSV, JSON, Excel, Parquet, Avro, SQL, cloud buckets, and Google Sheets. It provides practical techniques to load both structured and unstructured datasets for data analytics and machine learning workflows. </p>
 
+  <br>
+
 | **Sl. No** | **Code** |
 |:---------:|----------------------------------------------|
 | 1  | Loading the Sample Data |
